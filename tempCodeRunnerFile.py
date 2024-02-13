@@ -1,5 +1,1 @@
-elif answer == "right":
-    print()
-
-else:
-    print("not a valid option. You lose.")
+with open("password.txt", "r") as f:
